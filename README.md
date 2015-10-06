@@ -36,12 +36,12 @@ The problem is to provide an algorithm to calculate if a journey is possible for
 
 3 solutions are supplied, first 2 in pure Scala, the 3rd using Spark+GraphX
 
-[CityMapA](../tree/master/src/main/scala/com/felstar/citymap/CityMapA.scala)
+[CityMapA](../../tree/master/src/main/scala/com/felstar/citymap/CityMapA.scala)
 
-[CityMapB](../tree/master/src/main/scala/com/felstar/citymap/CityMapB.scala)
+[CityMapB](../../tree/master/src/main/scala/com/felstar/citymap/CityMapB.scala)
 
-[CityMapGraphX](../tree/master/src/main/scala/com/felstar/citymap/CityMapGraphX.scala)
+[CityMapGraphX](../../tree/master/src/main/scala/com/felstar/citymap/CityMapGraphX.scala)
 
 along with ScalaTest to test them all
 
-[CityMapTest](../tree/master/src/test/scala/com/felstar/citymap/CityMapTest.scala) 
+[CityMapTest](../../tree/master/src/test/scala/com/felstar/citymap/CityMapTest.scala) 
