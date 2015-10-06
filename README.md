@@ -45,3 +45,4 @@ The problem is to provide an algorithm to calculate if a journey is possible for
 along with ScalaTest to test them all
 
 [CityMapTest](../../tree/master/src/test/scala/com/felstar/citymap/CityMapTest.scala) 
+
