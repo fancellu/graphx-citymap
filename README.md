@@ -1,5 +1,7 @@
 # CityMap coding test plus 3 solutions #
 
+[![Build Status](https://travis-ci.org/fancellu/graphx-citymap.svg?branch=master)](https://travis-ci.org/fancellu/graphx-citymap)
+
 The problem is to provide an algorithm to calculate if a journey is possible for a series of locations in a city, connected by roads. You need to write an implementation for a class as follows:
 
     /**
